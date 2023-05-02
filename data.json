@@ -1,247 +1,445 @@
 [
   {
     "id": 1,
-    "chef_name": "Julia Michaels",
-    "years_of_experience": 12,
-    "num_of_recipes": 200,
-    "likes": 7000,
-    "chef_photo_url": "https://example.com/john-smith-photo.jpg",
-    "bio": "Julia Michaels is a classically trained chef with a love for using fresh, locally-sourced ingredients in her recipes. She has worked in some of the world's most prestigious kitchens and has won numerous awards for her innovative dishes.",
+    "name": "Liu Wei",
+    "picture": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg",
+    "years_of_experience": 20,
+    "num_recipes": 100,
+    "likes": 5000,
+    "bio": "Liu Wei is a master chef who has dedicated his life to perfecting the art of Chinese cuisine. With over 20 years of experience, he has created a vast collection of recipes that showcase the diverse flavors and techniques of Chinese cooking.",
+
     "recipes": [
       {
-        "recipe_name": "Roasted Chicken with Rosemary",
+        "name": "Kung Pao Chicken",
         "ingredients": [
-          "1 whole chicken",
-          "1/4 cup olive oil",
-          "4 cloves garlic, minced",
-          "2 tbsp. chopped fresh rosemary",
-          "1 tsp. salt",
-          "1/2 tsp. black pepper",
-          "1 lemon, sliced",
-          "1 onion, sliced"
+          "1 lb boneless, skinless chicken breast, cut into bite-sized pieces",
+          "1/2 cup peanuts",
+          "3 green onions, chopped",
+          "3 garlic cloves, minced",
+          "1/2 inch ginger, grated",
+          "2 tbsp soy sauce",
+          "2 tbsp rice vinegar",
+          "1 tbsp sugar",
+          "1 tsp cornstarch",
+          "1 tsp Sichuan peppercorn, crushed",
+          "2 tbsp vegetable oil",
+          "1 red bell pepper, chopped",
+          "1/2 cup chicken broth",
+          "Cooked rice, for serving"
         ],
-        "cooking_method": "Preheat the oven to 375°F. In a small bowl, mix together the olive oil, garlic, rosemary, salt, and pepper. Rub the mixture all over the chicken. Stuff the chicken with the lemon slices and onion slices. Place the chicken in a roasting pan and roast for 1 hour and 30 minutes, or until the internal temperature reaches 165°F. Let the chicken rest for 10-15 minutes before carving and serving.",
-        "rating": 4.7
-      },
-      {
-        "recipe_name": "Lobster Bisque",
-        "ingredients": [
-          "4 lobsters, cooked and meat removed",
-          "4 tbsp. butter",
-          "1 onion, chopped",
-          "4 cloves garlic, minced",
-          "4 tbsp. flour",
-          "4 cups seafood stock",
-          "2 cups heavy cream",
-          "1 tsp. paprika",
-          "Salt and pepper to taste"
-        ],
-        "cooking_method": "In a large pot, melt the butter over medium heat. Add the onion and garlic and cook until softened, about 5 minutes. Add the flour and stir to combine. Slowly whisk in the seafood stock, stirring constantly to prevent lumps. Add the lobster meat, heavy cream, paprika, salt, and pepper. Bring the soup to a simmer and cook for 20-25 minutes, or until the soup has thickened and the flavors have melded. Serve hot with crusty bread.",
+        "method": "1. In a small bowl, whisk together soy sauce, rice vinegar, sugar, cornstarch, and Sichuan peppercorn.\n2. Heat vegetable oil in a large wok or skillet over high heat. Add chicken and stir-fry until golden brown, about 5 minutes.\n3. Add peanuts, green onions, garlic, ginger, and red bell pepper to the wok and stir-fry for 1-2 minutes.\n4. Pour in the sauce and chicken broth, and stir-fry for another 2-3 minutes, until the sauce has thickened and the chicken is cooked through.\n5. Serve hot, over cooked rice.",
         "rating": 4.9
       },
       {
-        "recipe_name": "Grilled Eggplant Salad",
+        "name": "Hot and Sour Soup",
         "ingredients": [
-          "2 eggplants, sliced",
-          "1/4 cup olive oil",
-          "1/4 cup balsamic vinegar",
-          "2 tbsp. honey",
-          "2 cloves garlic, minced",
-          "1/2 tsp. salt",
-          "1/4 tsp. black pepper",
-          "4 cups mixed salad greens",
-          "1/2 cup crumbled feta cheese",
-          "1/4 cup chopped fresh parsley"
+          "6 dried shiitake mushrooms, soaked in hot water for 30 minutes",
+          "6 cups chicken stock",
+          "2 tbsp soy sauce",
+          "2 tbsp rice vinegar",
+          "2 tbsp cornstarch",
+          "2 tbsp vegetable oil",
+          "1 tbsp ginger, grated",
+          "2 garlic cloves, minced",
+          "1/4 tsp white pepper",
+          "1/4 tsp ground black pepper",
+          "1/2 cup bamboo shoots, sliced",
+          "1/2 cup firm tofu, cubed",
+          "2 eggs, beaten",
+          "2 green onions, chopped"
         ],
-        "cooking_method": "Preheat a grill or grill pan to medium-high heat. In a small bowl, whisk together the olive oil, balsamic vinegar, honey, garlic, salt, and pepper. Brush the eggplant slices with the dressing and grill for 3-4 minutes per side, or until tender and charred. Arrange the grilled eggplant slices on a bed of mixed salad greens. Top with crumbled feta cheese and chopped parsley. Drizzle with any remaining dressing.",
-        "rating": 4.5
+        "method": "1. Drain the soaked shiitake mushrooms and slice them thinly.\n2. In a large pot, bring chicken stock to a boil. Add soy sauce, rice vinegar, and sliced mushrooms.\n3. In a small bowl, whisk together cornstarch and 1/4 cup cold water until smooth. Add the cornstarch mixture to the pot and stir well.\n4. In a separate pan, heat vegetable oil over medium-high heat. Add ginger, garlic, white pepper, and black pepper, and stir-fry for 1-2 minutes.\n5. Add bamboo shoots and tofu to the pot, and stir-fry for another 1-2 minutes. Pour in the beaten eggs while stirring the soup gently to create egg ribbons.\n6. Serve hot, garnished",
+        "rating": 4.9
+      },
+      {
+        "name": "Mapo Tofu",
+        "ingredients": [
+          "1 block (14 oz) silken tofu",
+          "1/2 lb ground pork",
+          "3 green onions, chopped",
+          "3 garlic cloves, minced",
+          "1/2 inch ginger, grated",
+          "2 tbsp Sichuan bean paste",
+          "1 tbsp chili bean paste",
+          "1 tbsp soy sauce",
+          "1 tsp sugar",
+          "1 tsp cornstarch",
+          "1/4 cup chicken broth",
+          "1 tbsp vegetable oil",
+          "1 tsp Sichuan peppercorn, crushed",
+          "Cooked rice, for serving"
+        ],
+        "method": "1. Cut the tofu into small cubes and set aside.\n2. In a small bowl, whisk together Sichuan bean paste, chili bean paste, soy sauce, sugar, cornstarch, and chicken broth.\n3. Heat vegetable oil in a wok or skillet over high heat. Add ground pork and stir-fry until browned, about 5 minutes.\n4. Add green onions, garlic, ginger, and Sichuan peppercorn to the wok and stir-fry for 1-2 minutes.\n5. Pour in the sauce and bring to a boil. Add the tofu cubes and gently stir to coat them with the sauce.\n6. Cook for another 2-3 minutes, until the sauce has thickened and the tofu is heated through.\n7. Serve hot, over cooked rice.",
+
+        "rating": 4.8
       }
     ]
   },
   {
     "id": 2,
-    "chef_name": "Samantha Lee",
-    "years_of_experience": 15,
-    "num_of_recipes": 250,
-    "likes": 9000,
-    "chef_photo_url": "https://example.com/john-smith-photo.jpg",
-    "bio": "Samantha Lee is a master chef who specializes in creating fusion dishes that combine flavors from all over the world. She is passionate about experimenting with new ingredients and techniques to create dishes that are both delicious and visually stunning.",
-    "recipes": [
-      {
-        "recipe_name": "Korean BBQ Tacos",
-        "ingredients": [
-          "1 lb. flank steak, thinly sliced",
-          "1/4 cup soy sauce",
-          "1/4 cup hoisin sauce",
-          "2 tbsp. brown sugar",
-          "2 cloves garlic, minced",
-          "1 tsp. grated fresh ginger",
-          "1 tbsp. vegetable oil",
-          "8 small flour tortillas",
-          "1 cup chopped kimchi",
-          "1/4 cup chopped fresh cilantro",
-          "1 jalapeno, sliced"
-        ],
-        "cooking_method": "In a large bowl, whisk together the soy sauce, hoisin sauce, brown sugar, garlic, ginger, and vegetable oil. Add the sliced flank steak and toss to coat. Heat a large skillet or grill pan over medium-high heat. Cook the steak for 3-4 minutes per side, or until browned and cooked through. Warm the tortillas in the microwave or on a griddle. To assemble the tacos, fill each tortilla with some of the cooked steak, chopped kimchi, cilantro, and jalapeno slices.",
-        "rating": 4.8
-      },
-      {
-        "recipe_name": "Miso-Glazed Salmon",
-        "ingredients": [
-          "4 salmon fillets",
-          "1/4 cup white miso paste",
-          "2 tbsp. soy sauce",
-          "2 tbsp. rice vinegar",
-          "2 tbsp. honey",
-          "1 tbsp. vegetable oil",
-          "1 tsp. grated fresh ginger",
-          "2 cloves garlic, minced"
-        ],
-        "cooking_method": "Preheat the broiler. In a small bowl, whisk together the miso paste, soy sauce, rice vinegar, honey, vegetable oil, ginger, and garlic. Arrange the salmon fillets on a baking sheet lined with foil. Brush the miso glaze over the salmon. Broil for 6-8 minutes, or until the salmon is cooked through and the glaze is browned and bubbly. Serve hot with steamed rice and vegetables.",
-        "rating": 4.6
-      },
-      {
-        "recipe_name": "Roasted Vegetable Lasagna",
-        "ingredients": [
-          "12 lasagna noodles",
-          "1 large eggplant, sliced",
-          "2 zucchini, sliced",
-          "2 yellow squash, sliced",
-          "2 red bell peppers, sliced",
-          "1/4 cup olive oil",
-          "1 tsp. salt",
-          "1/2 tsp. black pepper",
-          "3 cups ricotta cheese",
-          "2 cups shredded mozzarella cheese",
-          "1 cup grated Parmesan cheese",
-          "2 cups marinara sauce"
-        ],
-        "cooking_method": "Preheat the oven to 375°F. In a large bowl, toss the eggplant, zucchini, yellow squash, and red bell peppers with the olive oil, salt, and pepper. Arrange the vegetables in a single layer on a baking sheet. Roast for 25-30 minutes, or until the vegetables are tender and lightly browned. In a separate bowl, mix together the ricotta cheese, 1 cup of the shredded mozzarella cheese, and 1/2 cup of the grated Parmesan cheese. Cook the lasagna noodles according to the package instructions. Spread a thin layer of ",
-        "rating": 4.7
-      }
-    ]
+    "name": "Li Ming",
+    "picture": "https://img.freepik.com/free-photo/medium-shot-smiley-woman-cooking_23-2149631698.jpg?w=360&t=st=1683021685~exp=1683022285~hmac=369aceaa26bdd55ee7d3b432d510f117a1d2a69b75356a43b40401dc30d8411f",
+    "years_of_experience": 25,
+    "num_recipes": 150,
+    "likes": 8000,
+    "bio": "Li Ming is a renowned chef specializing in Cantonese cuisine with over 25 years of experience in the industry. Her passion for cooking started at a young age, and she has since mastered the art of blending bold flavors and textures to create unforgettable dishes that delight the senses.",
+   "recipes": [
+  {
+    "name": "Roast Duck",
+    "ingredients": [
+      "1 whole duck, cleaned and pat dry",
+      "2 tbsp honey",
+      "2 tbsp soy sauce",
+      "1 tbsp rice vinegar",
+      "1 tbsp five-spice powder",
+      "1 tsp salt",
+      "2 tbsp vegetable oil",
+      "1 inch ginger, sliced",
+      "2 green onions, chopped",
+      "2 cloves garlic, minced"
+    ],
+    "method": "1. Preheat the oven to 375°F. Combine honey, soy sauce, rice vinegar, five-spice powder, and salt in a small bowl.\n2. Brush the mixture over the duck, making sure to coat it evenly.\n3. Heat vegetable oil in a large skillet over medium-high heat. Add ginger, green onions, and garlic and cook for 1-2 minutes.\n4. Add the duck and cook for 5 minutes on each side, until browned.\n5. Transfer the duck to a roasting pan and roast in the oven for 1 hour, basting with the remaining marinade every 20 minutes.\n6. Remove the duck from the oven and let it rest for 10 minutes before carving and serving.",
+
+    "rating": 4.9
   },
   {
-    "id": 3,
-    "chef_name": "John Smith",
-    "years_of_experience": 20,
-    "num_of_recipes": 300,
-    "likes": 12000,
-    "chef_photo_url": "https://example.com/john-smith-photo.jpg",
-    "bio": "John Smith is a classically trained chef with over 20 years of experience in fine dining. He has worked in some of the top restaurants in the world, including The French Laundry and El Bulli. John is known for his innovative and modern approach to traditional dishes, and his attention to detail is unparalleled.",
-    "recipes": [
-      {
-        "recipe_name": "Seared Scallops with Citrus Salad",
-        "ingredients": [
-          "12 large sea scallops",
-          "2 tbsp. olive oil",
-          "1 tsp. salt",
-          "1/2 tsp. black pepper",
-          "1 grapefruit, segmented",
-          "1 orange, segmented",
-          "1 avocado, diced",
-          "1 small red onion, sliced",
-          "2 tbsp. chopped fresh cilantro",
-          "2 tbsp. lime juice"
-        ],
-        "cooking_method": "Heat a large skillet over high heat. Pat the scallops dry with paper towels and season with salt and pepper. Add the olive oil to the skillet and swirl to coat. Add the scallops to the skillet and cook for 2-3 minutes per side, or until golden brown and cooked through. In a separate bowl, combine the grapefruit segments, orange segments, avocado, red onion, cilantro, and lime juice. Toss to combine. Serve the seared scallops with the citrus salad on the side.",
-        "rating": 4.9
-      },
-      {
-        "recipe_name": "Lobster Ravioli with Tomato Cream Sauce",
-        "ingredients": [
-          "1 lb. lobster meat, cooked and chopped",
-          "1/4 cup breadcrumbs",
-          "2 tbsp. chopped fresh parsley",
-          "1/2 tsp. salt",
-          "1/4 tsp. black pepper",
-          "1 egg, lightly beaten",
-          "1/4 cup grated Parmesan cheese",
-          "24 wonton wrappers",
-          "2 tbsp. butter",
-          "2 cloves garlic, minced",
-          "1 cup canned crushed tomatoes",
-          "1/2 cup heavy cream",
-          "1/4 tsp. red pepper flakes"
-        ],
-        "cooking_method": "In a large bowl, combine the lobster meat, breadcrumbs, parsley, salt, black pepper, egg, and Parmesan cheese. Place a spoonful of the lobster mixture in the center of each wonton wrapper. Brush the edges of the wrapper with water and fold in half to form a triangle. Press the edges to seal. Bring a large pot of salted water to a boil. Add the ravioli and cook for 2-3 minutes, or until tender and floating. Drain the ravioli and set aside. In a separate skillet, melt the butter over medium heat. Add the garlic and cook for 1-2 minutes, or until fragrant. Add the crushed tomatoes, heavy cream, and red pepper flakes. Stir to combine and bring to a simmer. Cook for 5-6 minutes, or until the sauce has thickened slightly. Serve the lobster ravioli with the tomato cream sauce spooned over the top.",
-        "rating": 4.7
-      },
-      {
-        "recipe_name": "Beef Wellington with Mushroom Duxelles",
-        "ingredients": [
-          "1 (2 lb.) beef tenderloin",
-          "1 tsp. salt",
-          "1/2 tsp. black pepper",
-          "2 tbsp. olive oil",
-          "1 lb. mushrooms, finely chopped",
-          "1 small cup"
-        ],
-        "cooking_method": "Heat a large skillet over high heat. Pat the scallops dry with paper towels and season with salt and pepper. Add the olive oil to the skillet and swirl to coat. Add the scallops to the skillet and cook for 2-3 minutes per side, or until golden brown and cooked through. In a separate bowl, combine the grapefruit segments, orange segments, avocado, red onion, cilantro, and lime juice. Toss to combine. Serve the seared scallops with the citrus salad on the side.",
-        "rating": 4.5
-      }
-    ]
+    "name": "Shrimp Dumplings",
+    "ingredients": [
+      "1 lb shrimp, peeled and deveined",
+      "1/2 cup bamboo shoots, chopped",
+      "1/2 cup water chestnuts, chopped",
+      "2 tbsp soy sauce",
+      "1 tbsp sesame oil",
+      "1 tbsp cornstarch",
+      "1 tbsp vegetable oil",
+      "1 tsp sugar",
+      "1/4 tsp white pepper",
+      "24 wonton wrappers",
+      "2 green onions, chopped"
+    ],
+    "method": "1. In a food processor, pulse shrimp, bamboo shoots, water chestnuts, soy sauce, sesame oil, cornstarch, vegetable oil, sugar, and white pepper until smooth.\n2. Place a tablespoon of the filling in the center of a wonton wrapper. Brush the edges with water and fold the wrapper over the filling to form a half-moon shape. Pinch the edges to seal.\n3. Repeat with remaining wrappers and filling.\n4. Bring a large pot of water to a boil. Add dumplings and cook for 3-4 minutes, until they float to the surface.\n5. Serve hot, garnished with chopped green onions.",
+
+    "rating": 4.8
   },
+  {
+    "name": "Steamed Fish",
+    "ingredients": [
+      "1 whole fish, cleaned and scaled",
+      "1 inch ginger, sliced",
+      "2 green onions, sliced",
+      "2 tbsp soy sauce",
+      "1 tbsp rice wine",
+      "1 tbsp vegetable oil",
+      "1 tbsp sugar",
+      
+    "Salt and white pepper to taste",
+     "Cilantro leaves for garnish (optional)"],
+     
+ "method":"Score the fish by making 3-4 diagonal cuts on both sides of the fish. This helps the fish cook evenly and absorb the flavors better.
+Place the fish on a heat-proof plate that fits inside a steamer basket. Add the ginger, garlic, and green onions on top of the fish.
+In a small bowl, mix together the soy sauce, Shaoxing wine, vegetable oil, salt, and white pepper. Pour this mixture evenly over the fish.
+Fill a pot or wok with water and bring it to a boil. Place the steamer basket with the fish inside and cover with a lid.
+Steam the fish over high heat for 12-15 minutes, depending on the thickness of the fish. Check for doneness by inserting a knife into the thickest part of the fish; if the flesh flakes easily, it is cooked through.
+Once the fish is cooked, remove it from the steamer and pour the juices from the plate into a saucepan. Heat the juices over high heat for 1-2 minutes until it comes to a boil.
+Pour the hot juices over the fish and garnish with cilantro leaves if desired.
+Serve hot with steamed rice and vegetables on the side.",
+"rating": 4.8
+    }]
+
+  },
+  {
+  "id": 3,
+  "name": "Wang Xiaoming",
+  "picture": "https://img.freepik.com/free-photo/chef-making-ok-sign-white-background_1368-2804.jpg?w=740&t=st=1683022000~exp=1683022600~hmac=11be5c8cd67dc2943175e1506bb7d7f3e5fbccd9ca9ae0a950b74f980696b78a",
+  "years_of_experience": 15,
+  "num_recipes": 80,
+  "likes": 4000,
+  "bio": "Wang Xiaoming is a skilled Chinese chef who has been passionate about cooking since he was a child. With over 15 years of experience, he has developed a deep understanding of traditional Chinese flavors and techniques, as well as a creative approach to modern fusion cuisine.",
+
+  "recipes": [
+    {
+      "name": "Dan Dan Noodles",
+      "ingredients": [
+        "1 lb. fresh Chinese wheat noodles",
+        "4 oz. ground pork",
+        "1 tbsp. vegetable oil",
+        "1/4 cup chili oil",
+        "2 tbsp. Sichuan peppercorn",
+        "3 tbsp. soy sauce",
+        "1 tbsp. black vinegar",
+        "1 tbsp. sugar",
+        "1/2 cup chopped scallions",
+        "1/2 cup chopped cilantro",
+        "1/4 cup chopped peanuts"
+      ],
+      "method": "1. Cook the noodles according to the package instructions. Drain and set aside.\n2. Heat the vegetable oil in a wok or large skillet over medium heat. Add the ground pork and stir-fry until cooked through.\n3. Add the chili oil, Sichuan peppercorn, soy sauce, black vinegar, and sugar to the wok. Stir-fry for 1-2 minutes until the sauce is fragrant.\n4. Add the cooked noodles to the wok and toss to coat with the sauce.\n5. Serve hot, garnished with chopped scallions, cilantro, and peanuts.",
+      "rating": 4.7
+    },
+    {
+      "name": "Shrimp with Garlic Sauce",
+      "ingredients": [
+        "1 lb. large shrimp, peeled and deveined",
+        "1 tbsp. vegetable oil",
+        "1 tbsp. cornstarch",
+        "1 tbsp. Shaoxing wine",
+        "1 tbsp. soy sauce",
+        "1 tbsp. sugar",
+        "1/4 cup chicken broth",
+        "2 tbsp. minced garlic",
+        "1 tbsp. minced ginger",
+        "1/4 cup chopped scallions"
+      ],
+      "method": "1. In a small bowl, whisk together the cornstarch, Shaoxing wine, soy sauce, and sugar. Set aside.\n2. Heat the vegetable oil in a wok or large skillet over high heat. Add the shrimp and stir-fry until pink, about 2-3 minutes.\n3. Add the minced garlic and ginger to the wok and stir-fry for 1-2 minutes until fragrant.\n4. Pour in the chicken broth and bring to a boil.\n5. Add the cornstarch mixture to the wok and stir well to thicken the sauce.\n6. Serve hot, garnished with chopped scallions.",
+      "rating": 4.9
+    },
+    {
+      "name": "Moo Shu Pork",
+      "ingredients": [
+        "8 oz. boneless pork loin, thinly sliced",
+        "1 cup sliced mushrooms",
+        "1 cup sliced Napa cabbage",
+        "1 cup sliced wood ear mushrooms",
+        "1/4 cup sliced bamboo shoots",
+        "1/4 cup shredded carrots",
+        "2 tbsp. vegetable oil",
+        "4 eggs, lightly beaten"],
+        "method":"Heat vegetable oil in a large skillet/wok. Stir-fry pork for 2-3 mins, add mushrooms, cabbage, carrots, garlic and green onions. Stir-fry for another 2-3 mins. Pour in beaten eggs and stir-fry for 1 min. Season with salt and white pepper. Serve on a Moo Shu pancake with a dollop of hoisin sauce.",
+   "rating":4.3 }
+]
+  },
+
   {
     "id": 4,
-    "chef_name": "Maria Rodriguez",
+    "name": "Zhang Jie",
+    "picture": "https://img.freepik.com/free-photo/happy-young-cook-uniform-showing-thumbs-up_171337-5330.jpg?w=740&t=st=1683022912~exp=1683023512~hmac=59bbbb42b2b5482fa647d10fe99e3406883ed46f260810a61eefb3001ac1229a",
     "years_of_experience": 15,
-    "num_of_recipes": 200,
+    "num_recipes": 80,
+    "likes": 4500,
+    "bio": "Zhang Jie is a Chinese chef with a passion for blending traditional techniques with modern flavors. With over 15 years of experience, he has created a diverse range of recipes that showcase the best of Chinese cuisine.",
+    
+    "recipes": [
+    {
+    "name": "Dumplings",
+    "ingredients": [
+    "1 lb ground pork",
+    "1/2 head napa cabbage, finely chopped",
+    "2 green onions, finely chopped",
+    "1 inch ginger, grated",
+    "2 garlic cloves, minced",
+    "1 tbsp soy sauce",
+    "1 tbsp sesame oil",
+    "1 tsp sugar",
+    "1/2 tsp salt",
+    "1/4 tsp white pepper",
+    "50 wonton wrappers",
+    "1/2 cup water",
+    "2 tbsp vegetable oil"
+    ],
+    "method": "1. In a large bowl, mix together the ground pork, napa cabbage, green onions, ginger, garlic, soy sauce, sesame oil, sugar, salt, and white pepper.\n2. Place a heaping teaspoon of filling in the center of each wonton wrapper. Moisten the edges of the wrapper with water, and fold it in half to form a triangle. Press the edges together to seal.\n3. Bring a large pot of water to a boil. Add the dumplings, and stir gently to prevent them from sticking together. Cook for 3-4 minutes, or until they float to the surface and are cooked through.\n4. Heat the vegetable oil in a large skillet over medium heat. Add the cooked dumplings and fry for 2-3 minutes on each side, until they are golden brown and crispy.\n5. Serve hot, with soy sauce or your favorite dipping sauce."
+    ,
+    "rating": 4.7
+    },
+    {
+    "name": "Ma Po Tofu",
+    "ingredients": [
+    "1 block (14 oz) firm tofu",
+    "1/2 lb ground pork",
+    "2 green onions, chopped",
+    "2 garlic cloves, minced",
+    "1/2 inch ginger, grated",
+    "2 tbsp Sichuan bean paste",
+    "1 tbsp chili bean paste",
+    "1 tbsp soy sauce",
+    "1 tsp sugar",
+    "1 tsp cornstarch",
+    "1/4 cup chicken broth",
+    "1 tbsp vegetable oil",
+    "1 tsp Sichuan peppercorn, crushed",
+    "Cooked rice, for serving"
+    ],
+    "method": "
+    Brown ground pork in a hot pan, add garlic, ginger and Sichuan peppercorns. Add doubanjiang, fermented black beans, and stir-fry. Add chicken broth and tofu, and let it simmer. Mix cornstarch with water and stir into the mixture. Add green onions, sesame oil, and adjust seasoning to taste. Serve hot with rice.",
+    "rating": 4.2
+  },
+  {
+    
+      "name": "Steamed Fish with Ginger and Scallionsu",
+      "ingredients": [ "1 whole fish (about 2 lbs), cleaned and scaled",
+      "2 inch piece of ginger, peeled and cut into thin strips",
+      "3 scallions, cut into thin strips",
+      "1 tbsp soy sauce",
+      "1 tbsp Shaoxing wine",
+      "1 tsp sugar",
+      "1 tsp sesame oil",
+      "1 tbsp vegetable oil"
+    ],
+    "method":"1. Place the fish on a heatproof plate and scatter the ginger and scallions on top,
+    2. In a small bowl, whisk together the soy sauce, Shaoxing wine, sugar, and sesame oil. Drizzle the mixture over the fish.,
+    3. Bring a large pot of water to a boil and place a steamer basket inside. Carefully place the plate with the fish on top of the steamer basket,
+    4. Cover the pot with a lid and steam the fish for about 15 minutes, or until cooked through.,
+
+    5.  Ia small saucepan, heat the vegetable oil until hot. Remove the fish from the steamer and pour the hot oil over the ginger and scallions.,
+    6. Serve the fish hot with steamed rice and vegetables",
+
+    "rating": 4.7
+
+  }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Zhang Wei",
+    "picture": "https://img.freepik.com/free-photo/portrait-positive-smiling-head-chef-standing-professional-restaurant-kitchen-while-looking-camera-confident-man-wearing-food-industry-white-uniform-while-preparing-delicious-meal_482257-40117.jpg?w=740&t=st=1683023863~exp=1683024463~hmac=37c094cf879671002978f396fc9b4ee540c703ddcabaaaa72dc66477f9876ca3",
+    "years_of_experience": 15,
+    "num_recipes": 80,
     "likes": 4000,
-    "chef_photo_url": "https://example.com/maria-rodriguez-photo.jpg",
-    "bio": "Maria Rodriguez is a self-taught chef with a passion for fusion cuisine. She draws inspiration from her Mexican heritage and the flavors of the Pacific Northwest, where she currently resides. Maria's dishes are a blend of classic techniques and modern ingredients, and she is known for her creative use of spices and seasonings.",
+    "bio": "Zhang Wei is a Chinese chef who specializes in creating modern twists on traditional Chinese dishes. With 15 years of experience, he has developed a unique style that incorporates unexpected flavors and techniques while still honoring the classic flavors of Chinese cuisine.",
+
     "recipes": [
       {
-        "recipe_name": "Chipotle Shrimp Tacos",
+        "name": "Hunan-style Twice-Cooked Pork",
         "ingredients": [
-          "1 lb. large shrimp, peeled and deveined",
-          "1 tbsp. olive oil",
-          "1 tsp. chili powder",
-          "1 tsp. smoked paprika",
-          "1/2 tsp. cumin",
-          "1/2 tsp. salt",
-          "1/4 tsp. black pepper",
-          "1 chipotle pepper in adobo sauce, finely chopped",
-          "1 lime, juiced",
-          "8 small corn tortillas",
-          "1 cup shredded red cabbage",
-          "1/2 cup crumbled queso fresco",
-          "1/4 cup chopped fresh cilantro"
+          "1 lb pork belly, sliced thinly",
+          "1 tbsp Sichuan peppercorns",
+          "3 tbsp soy sauce",
+          "1 tbsp rice wine",
+          "1 tbsp cornstarch",
+          "2 tbsp vegetable oil",
+          "3 garlic cloves, minced",
+          "1 inch ginger, grated",
+          "2 green onions, sliced",
+          "1/2 cup bamboo shoots, sliced",
+          "1/2 cup red bell pepper, sliced",
+          "Cooked rice, for serving"
         ],
-        "cooking_method": "In a large bowl, combine the shrimp, olive oil, chili powder, smoked paprika, cumin, salt, black pepper, chipotle pepper, and lime juice. Toss to coat. Heat a large skillet over medium-high heat. Add the shrimp to the skillet and cook for 2-3 minutes per side, or until cooked through and pink. Warm the corn tortillas in a separate skillet over medium heat. Assemble the tacos by placing a few shrimp on each tortilla, followed by some shredded cabbage, crumbled queso fresco, and chopped cilantro. Serve immediately.",
-        "rating": 4.8
-      },
-      {
-        "recipe_name": "Korean Fried Chicken Wings",
-        "ingredients": [
-          "2 lbs. chicken wings, separated",
-          "1 tbsp. soy sauce",
-          "1 tbsp. rice vinegar",
-          "1 tbsp. gochujang (Korean chili paste)",
-          "1 tbsp. honey",
-          "1 tsp. sesame oil",
-          "1/2 tsp. salt",
-          "1/4 tsp. black pepper",
-          "1/2 cup cornstarch",
-          "1/4 cup flour",
-          "1/2 tsp. baking powder",
-          "1/2 cup cold water",
-          "oil for frying",
-          "1 tbsp. toasted sesame seeds"
-        ],
-        "cooking_method": "In a large bowl, whisk together the soy sauce, rice vinegar, gochujang, honey, sesame oil, salt, and black pepper. Add the chicken wings to the bowl and toss to coat. Cover the bowl with plastic wrap and refrigerate for at least 1 hour, or overnight. In a separate bowl, whisk together the cornstarch, flour, baking powder, and cold water. Heat a large pot of oil over medium-high heat until it reaches 350°F. Dip each chicken wing in the batter, shaking off any excess, and carefully drop it into the hot oil. Fry the wings for 5-6 minutes, or until golden brown and crispy. Drain the wings on a paper towel-lined plate. Sprinkle with toasted sesame seeds before serving.",
-        "rating": 4.5
-      },
-      {
-        "recipe_name": "Mushroom and Goat Cheese Risotto",
-        "ingredients": [
-          "4 cups chicken or vegetable broth",
-          "1 tbsp. olive oil",
-          "1 small onion, finely chopped"
-        ],
-        "cooking_method": "In a large bowl, combine the shrimp, olive oil, chili powder, smoked paprika, cumin, salt, black pepper, chipotle pepper, and lime juice. Toss to coat. Heat a large skillet over medium-high heat. Add the shrimp to the skillet and cook for 2-3 minutes per side, or until cooked through and pink. Warm the corn tortillas in a separate skillet over medium heat. Assemble the tacos by placing a few shrimp on each tortilla, followed by some shredded cabbage, crumbled queso fresco, and chopped cilantro. Serve immediately.",
+        "method": "1. Heat a dry skillet over medium-high heat. Add Sichuan peppercorns and toast for 1-2 minutes, until fragrant. Remove from heat and grind into a fine powder.\n2. In a small bowl, whisk together soy sauce, rice wine, cornstarch, and 1 tablespoon of the Sichuan peppercorn powder.\n3. Heat vegetable oil in a large wok or skillet over high heat. Add pork and stir-fry until golden brown, about 5 minutes.\n4. Remove pork from the wok and set aside. Add garlic, ginger, and green onions to the wok and stir-fry for 1-2 minutes.\n5. Add bamboo shoots and red bell pepper to the wok and stir-fry for another 1-2 minutes.\n6. Return the pork to the wok and pour in the soy sauce mixture. Stir-fry for 2-3 minutes, until the sauce has thickened and the pork is cooked through.\n7. Serve hot, over cooked rice.",
+
+
         "rating": 4.7
-      }
-    ]
-  }
+      },
+      {
+        "name": "Sichuan-style Dan Dan Noodles",
+        "ingredients": [
+          "8 oz dried wheat noodles",
+          "1/2 lb ground pork",
+          "2 garlic cloves, minced",
+          "1/2 inch ginger, grated",
+          "2 tbsp Sichuan bean paste",
+          "2 tbsp soy sauce",
+          "1 tbsp rice vinegar",
+          "1 tbsp sugar",
+          "1 tbsp sesame oil",
+          "2 tbsp vegetable oil",
+          "2 green onions, chopped",
+          "1/4 cup roasted peanuts, chopped"
+        ],
+        "method": "1. Cook noodles according to package instructions. Drain and set aside.\n2. In a small bowl, whisk together Sichuan bean paste, soy sauce, rice vinegar, sugar, and sesame oil.\n3. Heat vegetable oil in a wok or skillet over high heat. Add ground pork and stir-fry until browned, about 5 minutes.\n4. Add garlic, ginger, and green onions to the wok and stir-fry for 1-2 minutes.\n5. Pour in the sauce and stir-fry for another 1-2 minutes, until the sauce has thickened.\n6. Serve",
+        "rating":4.8},
+        {
+           "name":"Kung Pao Chicken",
+           "ingredients": [
+            "2 boneless, skinless chicken breasts, cut into small pieces",
+            "1 tablespoon cornstarch",
+            "1 tablespoon soy sauce",
+            "1 tablespoon brown sugar",
+            "4-6 dried red chili peppers",
+            "2 tbsp soy sauce",
+            "1 tbsp rice vinegar",
+            "1 tbsp sugar",
+            "2 green onions, chopped",
+            "2 tbsp vegetable oil",
+            "2 green onions, chopped",
+            "1/4 cup roasted peanuts, chopped"
+          ],
+          "method": "In a small bowl, mix together the cornstarch and soy sauce. Add the chicken pieces and toss to coat. Set aside.
+
+          In a separate bowl, whisk together the ingredients for the sauce.
+          
+          Heat the vegetable oil in a wok or large skillet over high heat. Add the chicken and stir-fry for 2-3 minutes, until lightly browned.
+          
+          Add the peanuts, red and green bell peppers, garlic, ginger, and dried chili peppers to the wok. Stir-fry for 2-3 more minutes, until the peppers are tender.
+          
+          Pour in the sauce and stir to combine. Cook for an additional 1-2 minutes, until the sauce has thickened and the chicken is cooked through.",
+          "rating":4.2
+        }
+
+      ]
+    },{
+      
+        "id": 6,
+        "name": "Wang Yibo",
+        "picture": "https://images.unsplash.com/photo-1565299628533-cd9f6e208f98",
+        "years_of_experience": 15,
+        "num_recipes": 80,
+        "likes": 3500,
+        "bio": "Wang Yibo is a renowned chef with over 15 years of experience in Chinese cuisine. He is known for his innovative take on traditional dishes and his use of fresh, locally sourced ingredients. His recipes have been featured in top food publications around the world.",
+      
+        "recipes": [
+          {
+            "name": "Cantonese Roast Duck",
+            "ingredients": [
+              "1 whole duck",
+              "1 tbsp honey",
+              "1 tbsp soy sauce",
+              "1 tbsp Shaoxing wine",
+              "1/2 tsp salt",
+              "1/4 tsp Chinese five spice powder",
+              "2 tsp maltose",
+              "2 cups boiling water",
+              "Ice water, for rinsing",
+              "1 tsp red food coloring (optional)",
+              "4 cups vegetable oil, for frying",
+              "Steamed buns, for serving"
+            ],
+            "method": "1. Remove the innards from the duck and rinse it with cold water. Pat the duck dry and tie the legs together with kitchen twine.\n2. In a small bowl, mix together honey, soy sauce, Shaoxing wine, salt, and Chinese five spice powder. Brush the mixture all over the duck.\n3. In another small bowl, mix together maltose and boiling water until dissolved. Pour the mixture over the duck, making sure to coat it evenly.\n4. Hang the duck up to dry for at least 6 hours, or overnight. If desired, brush the duck with red food coloring to give it a reddish hue.\n5. Preheat the oven to 375°F (190°C). Place the duck on a rack in a roasting pan and roast for 1 hour, or until the skin is crispy and the meat is cooked through.\n6. Heat the vegetable oil in a wok or deep fryer over high heat. Carefully lower the duck into the oil and fry for 2-3 minutes, until the skin is golden brown and crispy. Remove from the oil and drain on paper towels.\n7. Serve the duck hot, with steamed buns and your favorite dipping sauce.",
+            "rating": 4.7
+          },
+          {
+            "name": "Ma Po Tofu",
+            "ingredients": [
+              "1 block (14 oz) firm tofu",
+              "1/2 lb ground pork",
+              "3 cloves garlic, minced",
+              "1 inch ginger, grated",
+              "2 green onions, chopped",
+              "2 tbsp Sichuan chili bean paste",
+              "1 tbsp fermented black beans, rinsed and drained",
+              "1 tbsp soy sauce",
+              "1 tsp sugar",
+              "1/2 cup chicken broth",
+              "2 tbsp vegetable oil",
+              "1/2 tsp Sichuan peppercorns, crushed",
+              "1 tsp cornstarch",
+              "Cooked rice, for serving"
+            ],
+            "method": "1. Cut the tofu into small cubes and set aside.\n2. In a small bowl, whisk together the chili bean paste, soy sauce, sugar, cornstarch, and chicken broth.\n3. Heat vegetable oil in a wok or skillet over high heat. Add ground pork and stir-fry until browned, about 5 minutes.",
+
+            "rating":4.7},{
+              "name":"Stir-Fried Bok Choy",
+              "ingredients": ["1 pound bok choy, washed and trimmed",
+             " 1 tablespoon vegetable oil",
+              "2 garlic cloves, minced",
+              "1 teaspoon fresh ginger, grated",
+              "1 tablespoon soy sauce",
+              "1 tablespoon oyster sauce",
+              "1/4 cup water"],
+              "method":" Cut the bok choy into bite-sized pieces.
+
+              Heat the oil in a wok or large skillet over high heat.
+              
+              Add the garlic and ginger and stir-fry for 1-2 minutes until fragrant.
+              
+              Add the bok choy to the wok and stir-fry for 1-2 minutes until it starts to wilt.
+              
+              In a small bowl, whisk together the soy sauce, oyster sauce, and water. Pour the sauce over the bok choy and stir-fry for an additional 1-2 minutes until the bok choy is tender and the sauce has thickened slightly.
+              
+              Serve hot as a side dish.
+              
+              Steamed Fish with Ginger and Scallions",
+              "rating": 4.4
+
+            }
+          ]
+    }
+
 ]
