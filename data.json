@@ -83,129 +83,125 @@
     "num_recipes": 150,
     "likes": 8000,
     "bio": "Li Ming is a renowned chef specializing in Cantonese cuisine with over 25 years of experience in the industry. Her passion for cooking started at a young age, and she has since mastered the art of blending bold flavors and textures to create unforgettable dishes that delight the senses.",
-   "recipes": [
-  {
-    "name": "Roast Duck",
-    "ingredients": [
-      "1 whole duck, cleaned and pat dry",
-      "2 tbsp honey",
-      "2 tbsp soy sauce",
-      "1 tbsp rice vinegar",
-      "1 tbsp five-spice powder",
-      "1 tsp salt",
-      "2 tbsp vegetable oil",
-      "1 inch ginger, sliced",
-      "2 green onions, chopped",
-      "2 cloves garlic, minced"
-    ],
-    "method": "1. Preheat the oven to 375°F. Combine honey, soy sauce, rice vinegar, five-spice powder, and salt in a small bowl.\n2. Brush the mixture over the duck, making sure to coat it evenly.\n3. Heat vegetable oil in a large skillet over medium-high heat. Add ginger, green onions, and garlic and cook for 1-2 minutes.\n4. Add the duck and cook for 5 minutes on each side, until browned.\n5. Transfer the duck to a roasting pan and roast in the oven for 1 hour, basting with the remaining marinade every 20 minutes.\n6. Remove the duck from the oven and let it rest for 10 minutes before carving and serving.",
+    "recipes": [
+      {
+        "name": "Roast Duck",
+        "ingredients": [
+          "1 whole duck, cleaned and pat dry",
+          "2 tbsp honey",
+          "2 tbsp soy sauce",
+          "1 tbsp rice vinegar",
+          "1 tbsp five-spice powder",
+          "1 tsp salt",
+          "2 tbsp vegetable oil",
+          "1 inch ginger, sliced",
+          "2 green onions, chopped",
+          "2 cloves garlic, minced"
+        ],
+        "method": "1. Preheat the oven to 375°F. Combine honey, soy sauce, rice vinegar, five-spice powder, and salt in a small bowl.\n2. Brush the mixture over the duck, making sure to coat it evenly.\n3. Heat vegetable oil in a large skillet over medium-high heat. Add ginger, green onions, and garlic and cook for 1-2 minutes.\n4. Add the duck and cook for 5 minutes on each side, until browned.\n5. Transfer the duck to a roasting pan and roast in the oven for 1 hour, basting with the remaining marinade every 20 minutes.\n6. Remove the duck from the oven and let it rest for 10 minutes before carving and serving.",
 
-    "rating": 4.9
+        "rating": 4.9
+      },
+      {
+        "name": "Shrimp Dumplings",
+        "ingredients": [
+          "1 lb shrimp, peeled and deveined",
+          "1/2 cup bamboo shoots, chopped",
+          "1/2 cup water chestnuts, chopped",
+          "2 tbsp soy sauce",
+          "1 tbsp sesame oil",
+          "1 tbsp cornstarch",
+          "1 tbsp vegetable oil",
+          "1 tsp sugar",
+          "1/4 tsp white pepper",
+          "24 wonton wrappers",
+          "2 green onions, chopped"
+        ],
+        "method": "1. In a food processor, pulse shrimp, bamboo shoots, water chestnuts, soy sauce, sesame oil, cornstarch, vegetable oil, sugar, and white pepper until smooth.\n2. Place a tablespoon of the filling in the center of a wonton wrapper. Brush the edges with water and fold the wrapper over the filling to form a half-moon shape. Pinch the edges to seal.\n3. Repeat with remaining wrappers and filling.\n4. Bring a large pot of water to a boil. Add dumplings and cook for 3-4 minutes, until they float to the surface.\n5. Serve hot, garnished with chopped green onions.",
+
+        "rating": 4.8
+      },
+      {
+        "name": "Steamed Fish",
+        "ingredients": [
+          "1 whole fish, cleaned and scaled",
+          "1 inch ginger, sliced",
+          "2 green onions, sliced",
+          "2 tbsp soy sauce",
+          "1 tbsp rice wine",
+          "1 tbsp vegetable oil",
+          "1 tbsp sugar",
+
+          "Salt and white pepper to taste",
+          "Cilantro leaves for garnish (optional)"
+        ],
+
+        "method": "1. Score the fish by making 3-4 diagonal cuts on both sides of the fish. This helps the fish cook evenly and absorb the flavors better.Place the fish on a heat-proof plate that fits inside a steamer basket. Add the ginger, garlic, and green onions on top of the fish.\nIn a small bowl, mix together the soy sauce, Shaoxing wine, vegetable oil, salt, and white pepper. Pour this mixture evenly over the fish.\nFill a pot or wok with water and bring it to a boil. Place the steamer basket with the fish inside and cover with a lid.\nSteam the fish over high heat for 12-15 minutes, depending on the thickness of the fish. Check for doneness by inserting a knife into the thickest part of the fish; if the flesh flakes easily, it is cooked through.\nOnce the fish is cooked, remove it from the steamer and pour the juices from the plate into a saucepan. Heat the juices over high heat for 1-2 minutes until it comes to a boil.\nPour the hot juices over the fish and garnish with cilantro leaves if desired.\nServe hot with steamed rice and vegetables on the side.",
+        "rating": 4.8
+      }
+    ]
   },
   {
-    "name": "Shrimp Dumplings",
-    "ingredients": [
-      "1 lb shrimp, peeled and deveined",
-      "1/2 cup bamboo shoots, chopped",
-      "1/2 cup water chestnuts, chopped",
-      "2 tbsp soy sauce",
-      "1 tbsp sesame oil",
-      "1 tbsp cornstarch",
-      "1 tbsp vegetable oil",
-      "1 tsp sugar",
-      "1/4 tsp white pepper",
-      "24 wonton wrappers",
-      "2 green onions, chopped"
-    ],
-    "method": "1. In a food processor, pulse shrimp, bamboo shoots, water chestnuts, soy sauce, sesame oil, cornstarch, vegetable oil, sugar, and white pepper until smooth.\n2. Place a tablespoon of the filling in the center of a wonton wrapper. Brush the edges with water and fold the wrapper over the filling to form a half-moon shape. Pinch the edges to seal.\n3. Repeat with remaining wrappers and filling.\n4. Bring a large pot of water to a boil. Add dumplings and cook for 3-4 minutes, until they float to the surface.\n5. Serve hot, garnished with chopped green onions.",
+    "id": 3,
+    "name": "Wang Xiaoming",
+    "picture": "https://img.freepik.com/free-photo/chef-making-ok-sign-white-background_1368-2804.jpg?w=740&t=st=1683022000~exp=1683022600~hmac=11be5c8cd67dc2943175e1506bb7d7f3e5fbccd9ca9ae0a950b74f980696b78a",
+    "years_of_experience": 15,
+    "num_recipes": 80,
+    "likes": 4000,
+    "bio": "Wang Xiaoming is a skilled Chinese chef who has been passionate about cooking since he was a child. With over 15 years of experience, he has developed a deep understanding of traditional Chinese flavors and techniques, as well as a creative approach to modern fusion cuisine.",
 
-    "rating": 4.8
-  },
-  {
-    "name": "Steamed Fish",
-    "ingredients": [
-      "1 whole fish, cleaned and scaled",
-      "1 inch ginger, sliced",
-      "2 green onions, sliced",
-      "2 tbsp soy sauce",
-      "1 tbsp rice wine",
-      "1 tbsp vegetable oil",
-      "1 tbsp sugar",
-      
-    "Salt and white pepper to taste",
-     "Cilantro leaves for garnish (optional)"],
-     
- "method":"Score the fish by making 3-4 diagonal cuts on both sides of the fish. This helps the fish cook evenly and absorb the flavors better.
-Place the fish on a heat-proof plate that fits inside a steamer basket. Add the ginger, garlic, and green onions on top of the fish.
-In a small bowl, mix together the soy sauce, Shaoxing wine, vegetable oil, salt, and white pepper. Pour this mixture evenly over the fish.
-Fill a pot or wok with water and bring it to a boil. Place the steamer basket with the fish inside and cover with a lid.
-Steam the fish over high heat for 12-15 minutes, depending on the thickness of the fish. Check for doneness by inserting a knife into the thickest part of the fish; if the flesh flakes easily, it is cooked through.
-Once the fish is cooked, remove it from the steamer and pour the juices from the plate into a saucepan. Heat the juices over high heat for 1-2 minutes until it comes to a boil.
-Pour the hot juices over the fish and garnish with cilantro leaves if desired.
-Serve hot with steamed rice and vegetables on the side.",
-"rating": 4.8
-    }]
-
-  },
-  {
-  "id": 3,
-  "name": "Wang Xiaoming",
-  "picture": "https://img.freepik.com/free-photo/chef-making-ok-sign-white-background_1368-2804.jpg?w=740&t=st=1683022000~exp=1683022600~hmac=11be5c8cd67dc2943175e1506bb7d7f3e5fbccd9ca9ae0a950b74f980696b78a",
-  "years_of_experience": 15,
-  "num_recipes": 80,
-  "likes": 4000,
-  "bio": "Wang Xiaoming is a skilled Chinese chef who has been passionate about cooking since he was a child. With over 15 years of experience, he has developed a deep understanding of traditional Chinese flavors and techniques, as well as a creative approach to modern fusion cuisine.",
-
-  "recipes": [
-    {
-      "name": "Dan Dan Noodles",
-      "ingredients": [
-        "1 lb. fresh Chinese wheat noodles",
-        "4 oz. ground pork",
-        "1 tbsp. vegetable oil",
-        "1/4 cup chili oil",
-        "2 tbsp. Sichuan peppercorn",
-        "3 tbsp. soy sauce",
-        "1 tbsp. black vinegar",
-        "1 tbsp. sugar",
-        "1/2 cup chopped scallions",
-        "1/2 cup chopped cilantro",
-        "1/4 cup chopped peanuts"
-      ],
-      "method": "1. Cook the noodles according to the package instructions. Drain and set aside.\n2. Heat the vegetable oil in a wok or large skillet over medium heat. Add the ground pork and stir-fry until cooked through.\n3. Add the chili oil, Sichuan peppercorn, soy sauce, black vinegar, and sugar to the wok. Stir-fry for 1-2 minutes until the sauce is fragrant.\n4. Add the cooked noodles to the wok and toss to coat with the sauce.\n5. Serve hot, garnished with chopped scallions, cilantro, and peanuts.",
-      "rating": 4.7
-    },
-    {
-      "name": "Shrimp with Garlic Sauce",
-      "ingredients": [
-        "1 lb. large shrimp, peeled and deveined",
-        "1 tbsp. vegetable oil",
-        "1 tbsp. cornstarch",
-        "1 tbsp. Shaoxing wine",
-        "1 tbsp. soy sauce",
-        "1 tbsp. sugar",
-        "1/4 cup chicken broth",
-        "2 tbsp. minced garlic",
-        "1 tbsp. minced ginger",
-        "1/4 cup chopped scallions"
-      ],
-      "method": "1. In a small bowl, whisk together the cornstarch, Shaoxing wine, soy sauce, and sugar. Set aside.\n2. Heat the vegetable oil in a wok or large skillet over high heat. Add the shrimp and stir-fry until pink, about 2-3 minutes.\n3. Add the minced garlic and ginger to the wok and stir-fry for 1-2 minutes until fragrant.\n4. Pour in the chicken broth and bring to a boil.\n5. Add the cornstarch mixture to the wok and stir well to thicken the sauce.\n6. Serve hot, garnished with chopped scallions.",
-      "rating": 4.9
-    },
-    {
-      "name": "Moo Shu Pork",
-      "ingredients": [
-        "8 oz. boneless pork loin, thinly sliced",
-        "1 cup sliced mushrooms",
-        "1 cup sliced Napa cabbage",
-        "1 cup sliced wood ear mushrooms",
-        "1/4 cup sliced bamboo shoots",
-        "1/4 cup shredded carrots",
-        "2 tbsp. vegetable oil",
-        "4 eggs, lightly beaten"],
-        "method":"Heat vegetable oil in a large skillet/wok. Stir-fry pork for 2-3 mins, add mushrooms, cabbage, carrots, garlic and green onions. Stir-fry for another 2-3 mins. Pour in beaten eggs and stir-fry for 1 min. Season with salt and white pepper. Serve on a Moo Shu pancake with a dollop of hoisin sauce.",
-   "rating":4.3 }
-]
+    "recipes": [
+      {
+        "name": "Dan Dan Noodles",
+        "ingredients": [
+          "1 lb. fresh Chinese wheat noodles",
+          "4 oz. ground pork",
+          "1 tbsp. vegetable oil",
+          "1/4 cup chili oil",
+          "2 tbsp. Sichuan peppercorn",
+          "3 tbsp. soy sauce",
+          "1 tbsp. black vinegar",
+          "1 tbsp. sugar",
+          "1/2 cup chopped scallions",
+          "1/2 cup chopped cilantro",
+          "1/4 cup chopped peanuts"
+        ],
+        "method": "1. Cook the noodles according to the package instructions. Drain and set aside.\n2. Heat the vegetable oil in a wok or large skillet over medium heat. Add the ground pork and stir-fry until cooked through.\n3. Add the chili oil, Sichuan peppercorn, soy sauce, black vinegar, and sugar to the wok. Stir-fry for 1-2 minutes until the sauce is fragrant.\n4. Add the cooked noodles to the wok and toss to coat with the sauce.\n5. Serve hot, garnished with chopped scallions, cilantro, and peanuts.",
+        "rating": 4.7
+      },
+      {
+        "name": "Shrimp with Garlic Sauce",
+        "ingredients": [
+          "1 lb. large shrimp, peeled and deveined",
+          "1 tbsp. vegetable oil",
+          "1 tbsp. cornstarch",
+          "1 tbsp. Shaoxing wine",
+          "1 tbsp. soy sauce",
+          "1 tbsp. sugar",
+          "1/4 cup chicken broth",
+          "2 tbsp. minced garlic",
+          "1 tbsp. minced ginger",
+          "1/4 cup chopped scallions"
+        ],
+        "method": "1. In a small bowl, whisk together the cornstarch, Shaoxing wine, soy sauce, and sugar. Set aside.\n2. Heat the vegetable oil in a wok or large skillet over high heat. Add the shrimp and stir-fry until pink, about 2-3 minutes.\n3. Add the minced garlic and ginger to the wok and stir-fry for 1-2 minutes until fragrant.\n4. Pour in the chicken broth and bring to a boil.\n5. Add the cornstarch mixture to the wok and stir well to thicken the sauce.\n6. Serve hot, garnished with chopped scallions.",
+        "rating": 4.9
+      },
+      {
+        "name": "Moo Shu Pork",
+        "ingredients": [
+          "8 oz. boneless pork loin, thinly sliced",
+          "1 cup sliced mushrooms",
+          "1 cup sliced Napa cabbage",
+          "1 cup sliced wood ear mushrooms",
+          "1/4 cup sliced bamboo shoots",
+          "1/4 cup shredded carrots",
+          "2 tbsp. vegetable oil",
+          "4 eggs, lightly beaten"
+        ],
+        "method": "Heat vegetable oil in a large skillet/wok. Stir-fry pork for 2-3 mins, add mushrooms, cabbage, carrots, garlic and green onions. Stir-fry for another 2-3 mins. Pour in beaten eggs and stir-fry for 1 min. Season with salt and white pepper. Serve on a Moo Shu pancake with a dollop of hoisin sauce.",
+        "rating": 4.3
+      }
+    ]
   },
 
   {
@@ -216,74 +212,65 @@ Serve hot with steamed rice and vegetables on the side.",
     "num_recipes": 80,
     "likes": 4500,
     "bio": "Zhang Jie is a Chinese chef with a passion for blending traditional techniques with modern flavors. With over 15 years of experience, he has created a diverse range of recipes that showcase the best of Chinese cuisine.",
-    
+
     "recipes": [
-    {
-    "name": "Dumplings",
-    "ingredients": [
-    "1 lb ground pork",
-    "1/2 head napa cabbage, finely chopped",
-    "2 green onions, finely chopped",
-    "1 inch ginger, grated",
-    "2 garlic cloves, minced",
-    "1 tbsp soy sauce",
-    "1 tbsp sesame oil",
-    "1 tsp sugar",
-    "1/2 tsp salt",
-    "1/4 tsp white pepper",
-    "50 wonton wrappers",
-    "1/2 cup water",
-    "2 tbsp vegetable oil"
-    ],
-    "method": "1. In a large bowl, mix together the ground pork, napa cabbage, green onions, ginger, garlic, soy sauce, sesame oil, sugar, salt, and white pepper.\n2. Place a heaping teaspoon of filling in the center of each wonton wrapper. Moisten the edges of the wrapper with water, and fold it in half to form a triangle. Press the edges together to seal.\n3. Bring a large pot of water to a boil. Add the dumplings, and stir gently to prevent them from sticking together. Cook for 3-4 minutes, or until they float to the surface and are cooked through.\n4. Heat the vegetable oil in a large skillet over medium heat. Add the cooked dumplings and fry for 2-3 minutes on each side, until they are golden brown and crispy.\n5. Serve hot, with soy sauce or your favorite dipping sauce."
-    ,
-    "rating": 4.7
-    },
-    {
-    "name": "Ma Po Tofu",
-    "ingredients": [
-    "1 block (14 oz) firm tofu",
-    "1/2 lb ground pork",
-    "2 green onions, chopped",
-    "2 garlic cloves, minced",
-    "1/2 inch ginger, grated",
-    "2 tbsp Sichuan bean paste",
-    "1 tbsp chili bean paste",
-    "1 tbsp soy sauce",
-    "1 tsp sugar",
-    "1 tsp cornstarch",
-    "1/4 cup chicken broth",
-    "1 tbsp vegetable oil",
-    "1 tsp Sichuan peppercorn, crushed",
-    "Cooked rice, for serving"
-    ],
-    "method": "
-    Brown ground pork in a hot pan, add garlic, ginger and Sichuan peppercorns. Add doubanjiang, fermented black beans, and stir-fry. Add chicken broth and tofu, and let it simmer. Mix cornstarch with water and stir into the mixture. Add green onions, sesame oil, and adjust seasoning to taste. Serve hot with rice.",
-    "rating": 4.2
-  },
-  {
-    
-      "name": "Steamed Fish with Ginger and Scallionsu",
-      "ingredients": [ "1 whole fish (about 2 lbs), cleaned and scaled",
-      "2 inch piece of ginger, peeled and cut into thin strips",
-      "3 scallions, cut into thin strips",
-      "1 tbsp soy sauce",
-      "1 tbsp Shaoxing wine",
-      "1 tsp sugar",
-      "1 tsp sesame oil",
-      "1 tbsp vegetable oil"
-    ],
-    "method":"1. Place the fish on a heatproof plate and scatter the ginger and scallions on top,
-    2. In a small bowl, whisk together the soy sauce, Shaoxing wine, sugar, and sesame oil. Drizzle the mixture over the fish.,
-    3. Bring a large pot of water to a boil and place a steamer basket inside. Carefully place the plate with the fish on top of the steamer basket,
-    4. Cover the pot with a lid and steam the fish for about 15 minutes, or until cooked through.,
+      {
+        "name": "Dumplings",
+        "ingredients": [
+          "1 lb ground pork",
+          "1/2 head napa cabbage, finely chopped",
+          "2 green onions, finely chopped",
+          "1 inch ginger, grated",
+          "2 garlic cloves, minced",
+          "1 tbsp soy sauce",
+          "1 tbsp sesame oil",
+          "1 tsp sugar",
+          "1/2 tsp salt",
+          "1/4 tsp white pepper",
+          "50 wonton wrappers",
+          "1/2 cup water",
+          "2 tbsp vegetable oil"
+        ],
+        "method": "1. In a large bowl, mix together the ground pork, napa cabbage, green onions, ginger, garlic, soy sauce, sesame oil, sugar, salt, and white pepper.\n2. Place a heaping teaspoon of filling in the center of each wonton wrapper. Moisten the edges of the wrapper with water, and fold it in half to form a triangle. Press the edges together to seal.\n3. Bring a large pot of water to a boil. Add the dumplings, and stir gently to prevent them from sticking together. Cook for 3-4 minutes, or until they float to the surface and are cooked through.\n4. Heat the vegetable oil in a large skillet over medium heat. Add the cooked dumplings and fry for 2-3 minutes on each side, until they are golden brown and crispy.\n5. Serve hot, with soy sauce or your favorite dipping sauce.",
+        "rating": 4.7
+      },
+      {
+        "name": "Ma Po Tofu",
+        "ingredients": [
+          "1 block (14 oz) firm tofu",
+          "1/2 lb ground pork",
+          "2 green onions, chopped",
+          "2 garlic cloves, minced",
+          "1/2 inch ginger, grated",
+          "2 tbsp Sichuan bean paste",
+          "1 tbsp chili bean paste",
+          "1 tbsp soy sauce",
+          "1 tsp sugar",
+          "1 tsp cornstarch",
+          "1/4 cup chicken broth",
+          "1 tbsp vegetable oil",
+          "1 tsp Sichuan peppercorn, crushed",
+          "Cooked rice, for serving"
+        ],
+        "method": "Brown ground pork in a hot pan, add garlic, ginger and Sichuan peppercorns. Add doubanjiang, fermented black beans, and stir-fry. Add chicken broth and tofu, and let it simmer. Mix cornstarch with water and stir into the mixture. Add green onions, sesame oil, and adjust seasoning to taste. Serve hot with rice.",
+        "rating": 4.2
+      },
+      {
+        "name": "Steamed Fish with Ginger and Scallionsu",
+        "ingredients": [
+          "1 whole fish (about 2 lbs), cleaned and scaled",
+          "2 inch piece of ginger, peeled and cut into thin strips",
+          "3 scallions, cut into thin strips",
+          "1 tbsp soy sauce",
+          "1 tbsp Shaoxing wine",
+          "1 tsp sugar",
+          "1 tsp sesame oil",
+          "1 tbsp vegetable oil"
+        ],
+        "method": "1. Place the fish on a heatproof plate and scatter the ginger and scallions on top,\n2. In a small bowl, whisk together the soy sauce, Shaoxing wine, sugar, and sesame oil. Drizzle the mixture over the fish.,\n3. Bring a large pot of water to a boil and place a steamer basket inside. Carefully place the plate with the fish on top of the steamer basket,\n4. Cover the pot with a lid and steam the fish for about 15 minutes, or until cooked through.,\n5. In a small saucepan, heat the vegetable oil until hot. Remove the fish from the steamer and pour the hot oil over the ginger and scallions.,\n6. Serve the fish hot with steamed rice and vegetables",
 
-    5.  Ia small saucepan, heat the vegetable oil until hot. Remove the fish from the steamer and pour the hot oil over the ginger and scallions.,
-    6. Serve the fish hot with steamed rice and vegetables",
-
-    "rating": 4.7
-
-  }
+        "rating": 4.7
+      }
     ]
   },
   {
@@ -314,7 +301,6 @@ Serve hot with steamed rice and vegetables on the side.",
         ],
         "method": "1. Heat a dry skillet over medium-high heat. Add Sichuan peppercorns and toast for 1-2 minutes, until fragrant. Remove from heat and grind into a fine powder.\n2. In a small bowl, whisk together soy sauce, rice wine, cornstarch, and 1 tablespoon of the Sichuan peppercorn powder.\n3. Heat vegetable oil in a large wok or skillet over high heat. Add pork and stir-fry until golden brown, about 5 minutes.\n4. Remove pork from the wok and set aside. Add garlic, ginger, and green onions to the wok and stir-fry for 1-2 minutes.\n5. Add bamboo shoots and red bell pepper to the wok and stir-fry for another 1-2 minutes.\n6. Return the pork to the wok and pour in the soy sauce mixture. Stir-fry for 2-3 minutes, until the sauce has thickened and the pork is cooked through.\n7. Serve hot, over cooked rice.",
 
-
         "rating": 4.7
       },
       {
@@ -334,112 +320,94 @@ Serve hot with steamed rice and vegetables on the side.",
           "1/4 cup roasted peanuts, chopped"
         ],
         "method": "1. Cook noodles according to package instructions. Drain and set aside.\n2. In a small bowl, whisk together Sichuan bean paste, soy sauce, rice vinegar, sugar, and sesame oil.\n3. Heat vegetable oil in a wok or skillet over high heat. Add ground pork and stir-fry until browned, about 5 minutes.\n4. Add garlic, ginger, and green onions to the wok and stir-fry for 1-2 minutes.\n5. Pour in the sauce and stir-fry for another 1-2 minutes, until the sauce has thickened.\n6. Serve",
-        "rating":4.8},
-        {
-           "name":"Kung Pao Chicken",
-           "ingredients": [
-            "2 boneless, skinless chicken breasts, cut into small pieces",
-            "1 tablespoon cornstarch",
-            "1 tablespoon soy sauce",
-            "1 tablespoon brown sugar",
-            "4-6 dried red chili peppers",
-            "2 tbsp soy sauce",
-            "1 tbsp rice vinegar",
-            "1 tbsp sugar",
-            "2 green onions, chopped",
-            "2 tbsp vegetable oil",
-            "2 green onions, chopped",
-            "1/4 cup roasted peanuts, chopped"
-          ],
-          "method": "In a small bowl, mix together the cornstarch and soy sauce. Add the chicken pieces and toss to coat. Set aside.
+        "rating": 4.8
+      },
+      {
+        "name": "Kung Pao Chicken",
+        "ingredients": [
+          "2 boneless, skinless chicken breasts, cut into small pieces",
+          "1 tablespoon cornstarch",
+          "1 tablespoon soy sauce",
+          "1 tablespoon brown sugar",
+          "4-6 dried red chili peppers",
+          "2 tbsp soy sauce",
+          "1 tbsp rice vinegar",
+          "1 tbsp sugar",
+          "2 green onions, chopped",
+          "2 tbsp vegetable oil",
+          "2 green onions, chopped",
+          "1/4 cup roasted peanuts, chopped"
+        ],
+        "method": "In a small bowl, mix together the cornstarch and soy sauce. Add the chicken pieces and toss to coat. Set aside.\n\nIn a separate bowl, whisk together the ingredients for the sauce.\n\nHeat the vegetable oil in a wok or large skillet over high heat. Add the chicken and stir-fry for 2-3 minutes, until lightly browned.\n\nAdd the peanuts, red and green bell peppers, garlic, ginger, and dried chili peppers to the wok. Stir-fry for 2-3 more minutes, until the peppers are tender.\n\nPour in the sauce and stir to combine. Cook for an additional 1-2 minutes, until the sauce has thickened and the chicken is cooked through.",
+        "rating": 4.2
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Wang Yibo",
+    "picture": "https://img.freepik.com/free-photo/mid-shot-chef-holding-plate-with-pasta-making-ok-sign_23-2148794087.jpg?w=740&t=st=1683024931~exp=1683025531~hmac=18db2588fc5b1d02a16b3f59fcba247518b75ce717c2507a480b1711eca21b2e",
+    "years_of_experience": 15,
+    "num_recipes": 80,
+    "likes": 3500,
+    "bio": "Wang Yibo is a renowned chef with over 15 years of experience in Chinese cuisine. He is known for his innovative take on traditional dishes and his use of fresh, locally sourced ingredients. His recipes have been featured in top food publications around the world.",
 
-          In a separate bowl, whisk together the ingredients for the sauce.
-          
-          Heat the vegetable oil in a wok or large skillet over high heat. Add the chicken and stir-fry for 2-3 minutes, until lightly browned.
-          
-          Add the peanuts, red and green bell peppers, garlic, ginger, and dried chili peppers to the wok. Stir-fry for 2-3 more minutes, until the peppers are tender.
-          
-          Pour in the sauce and stir to combine. Cook for an additional 1-2 minutes, until the sauce has thickened and the chicken is cooked through.",
-          "rating":4.2
-        }
+    "recipes": [
+      {
+        "name": "Cantonese Roast Duck",
+        "ingredients": [
+          "1 whole duck",
+          "1 tbsp honey",
+          "1 tbsp soy sauce",
+          "1 tbsp Shaoxing wine",
+          "1/2 tsp salt",
+          "1/4 tsp Chinese five spice powder",
+          "2 tsp maltose",
+          "2 cups boiling water",
+          "Ice water, for rinsing",
+          "1 tsp red food coloring (optional)",
+          "4 cups vegetable oil, for frying",
+          "Steamed buns, for serving"
+        ],
+        "method": "1. Remove the innards from the duck and rinse it with cold water. Pat the duck dry and tie the legs together with kitchen twine.\n2. In a small bowl, mix together honey, soy sauce, Shaoxing wine, salt, and Chinese five spice powder. Brush the mixture all over the duck.\n3. In another small bowl, mix together maltose and boiling water until dissolved. Pour the mixture over the duck, making sure to coat it evenly.\n4. Hang the duck up to dry for at least 6 hours, or overnight. If desired, brush the duck with red food coloring to give it a reddish hue.\n5. Preheat the oven to 375°F (190°C). Place the duck on a rack in a roasting pan and roast for 1 hour, or until the skin is crispy and the meat is cooked through.\n6. Heat the vegetable oil in a wok or deep fryer over high heat. Carefully lower the duck into the oil and fry for 2-3 minutes, until the skin is golden brown and crispy. Remove from the oil and drain on paper towels.\n7. Serve the duck hot, with steamed buns and your favorite dipping sauce.",
+        "rating": 4.7
+      },
+      {
+        "name": "Ma Po Tofu",
+        "ingredients": [
+          "1 block (14 oz) firm tofu",
+          "1/2 lb ground pork",
+          "3 cloves garlic, minced",
+          "1 inch ginger, grated",
+          "2 green onions, chopped",
+          "2 tbsp Sichuan chili bean paste",
+          "1 tbsp fermented black beans, rinsed and drained",
+          "1 tbsp soy sauce",
+          "1 tsp sugar",
+          "1/2 cup chicken broth",
+          "2 tbsp vegetable oil",
+          "1/2 tsp Sichuan peppercorns, crushed",
+          "1 tsp cornstarch",
+          "Cooked rice, for serving"
+        ],
+        "method": "1. Cut the tofu into small cubes and set aside.\n2. In a small bowl, whisk together the chili bean paste, soy sauce, sugar, cornstarch, and chicken broth.\n3. Heat vegetable oil in a wok or skillet over high heat. Add ground pork and stir-fry until browned, about 5 minutes.",
 
-      ]
-    },{
-      
-        "id": 6,
-        "name": "Wang Yibo",
-        "picture": "https://images.unsplash.com/photo-1565299628533-cd9f6e208f98",
-        "years_of_experience": 15,
-        "num_recipes": 80,
-        "likes": 3500,
-        "bio": "Wang Yibo is a renowned chef with over 15 years of experience in Chinese cuisine. He is known for his innovative take on traditional dishes and his use of fresh, locally sourced ingredients. His recipes have been featured in top food publications around the world.",
-      
-        "recipes": [
-          {
-            "name": "Cantonese Roast Duck",
-            "ingredients": [
-              "1 whole duck",
-              "1 tbsp honey",
-              "1 tbsp soy sauce",
-              "1 tbsp Shaoxing wine",
-              "1/2 tsp salt",
-              "1/4 tsp Chinese five spice powder",
-              "2 tsp maltose",
-              "2 cups boiling water",
-              "Ice water, for rinsing",
-              "1 tsp red food coloring (optional)",
-              "4 cups vegetable oil, for frying",
-              "Steamed buns, for serving"
-            ],
-            "method": "1. Remove the innards from the duck and rinse it with cold water. Pat the duck dry and tie the legs together with kitchen twine.\n2. In a small bowl, mix together honey, soy sauce, Shaoxing wine, salt, and Chinese five spice powder. Brush the mixture all over the duck.\n3. In another small bowl, mix together maltose and boiling water until dissolved. Pour the mixture over the duck, making sure to coat it evenly.\n4. Hang the duck up to dry for at least 6 hours, or overnight. If desired, brush the duck with red food coloring to give it a reddish hue.\n5. Preheat the oven to 375°F (190°C). Place the duck on a rack in a roasting pan and roast for 1 hour, or until the skin is crispy and the meat is cooked through.\n6. Heat the vegetable oil in a wok or deep fryer over high heat. Carefully lower the duck into the oil and fry for 2-3 minutes, until the skin is golden brown and crispy. Remove from the oil and drain on paper towels.\n7. Serve the duck hot, with steamed buns and your favorite dipping sauce.",
-            "rating": 4.7
-          },
-          {
-            "name": "Ma Po Tofu",
-            "ingredients": [
-              "1 block (14 oz) firm tofu",
-              "1/2 lb ground pork",
-              "3 cloves garlic, minced",
-              "1 inch ginger, grated",
-              "2 green onions, chopped",
-              "2 tbsp Sichuan chili bean paste",
-              "1 tbsp fermented black beans, rinsed and drained",
-              "1 tbsp soy sauce",
-              "1 tsp sugar",
-              "1/2 cup chicken broth",
-              "2 tbsp vegetable oil",
-              "1/2 tsp Sichuan peppercorns, crushed",
-              "1 tsp cornstarch",
-              "Cooked rice, for serving"
-            ],
-            "method": "1. Cut the tofu into small cubes and set aside.\n2. In a small bowl, whisk together the chili bean paste, soy sauce, sugar, cornstarch, and chicken broth.\n3. Heat vegetable oil in a wok or skillet over high heat. Add ground pork and stir-fry until browned, about 5 minutes.",
-
-            "rating":4.7},{
-              "name":"Stir-Fried Bok Choy",
-              "ingredients": ["1 pound bok choy, washed and trimmed",
-             " 1 tablespoon vegetable oil",
-              "2 garlic cloves, minced",
-              "1 teaspoon fresh ginger, grated",
-              "1 tablespoon soy sauce",
-              "1 tablespoon oyster sauce",
-              "1/4 cup water"],
-              "method":" Cut the bok choy into bite-sized pieces.
-
-              Heat the oil in a wok or large skillet over high heat.
-              
-              Add the garlic and ginger and stir-fry for 1-2 minutes until fragrant.
-              
-              Add the bok choy to the wok and stir-fry for 1-2 minutes until it starts to wilt.
-              
-              In a small bowl, whisk together the soy sauce, oyster sauce, and water. Pour the sauce over the bok choy and stir-fry for an additional 1-2 minutes until the bok choy is tender and the sauce has thickened slightly.
-              
-              Serve hot as a side dish.
-              
-              Steamed Fish with Ginger and Scallions",
-              "rating": 4.4
-
-            }
-          ]
-    }
-
+        "rating": 4.7
+      },
+      {
+        "name": "Stir-Fried Bok Choy",
+        "ingredients": [
+          "1 pound bok choy, washed and trimmed",
+          " 1 tablespoon vegetable oil",
+          "2 garlic cloves, minced",
+          "1 teaspoon fresh ginger, grated",
+          "1 tablespoon soy sauce",
+          "1 tablespoon oyster sauce",
+          "1/4 cup water"
+        ],
+        "method": " Cut the bok choy into bite-sized pieces.\n\nHeat the oil in a wok or large skillet over high heat.\n\nAdd the garlic and ginger and stir-fry for 1-2 minutes until fragrant.\n\nAdd the bok choy to the wok and stir-fry for 1-2 minutes until it starts to wilt.\n\nIn a small bowl, whisk together the soy sauce, oyster sauce, and water. Pour the sauce over the bok choy and stir-fry for an additional 1-2 minutes until the bok choy is tender and the sauce has thickened slightly.\n\nServe hot as a side dish.\n\nSteamed Fish with Ginger and Scallions",
+        "rating": 4.4
+      }
+    ]
+  }
 ]
