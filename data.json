@@ -11,6 +11,7 @@
     "recipes": [
       {
         "name": "Kung Pao Chicken",
+        "img": "https://i.ibb.co/nQ3KqSn/Kung-Pao-Chicken-16-scaled.jpg",
         "ingredients": [
           "1 lb boneless, skinless chicken breast, cut into bite-sized pieces",
           "1/2 cup peanuts",
@@ -32,6 +33,7 @@
       },
       {
         "name": "Hot and Sour Soup",
+        "img": "https://images.pexels.com/photos/539451/pexels-photo-539451.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         "ingredients": [
           "6 dried shiitake mushrooms, soaked in hot water for 30 minutes",
           "6 cups chicken stock",
@@ -53,6 +55,7 @@
       },
       {
         "name": "Mapo Tofu",
+        "img": "https://i.ibb.co/LxkbGNP/mapo-tofu-10.jpg",
         "ingredients": [
           "1 block (14 oz) silken tofu",
           "1/2 lb ground pork",
@@ -78,7 +81,7 @@
   {
     "id": 2,
     "name": "Li Ming",
-    "picture": "https://img.freepik.com/free-photo/medium-shot-smiley-woman-cooking_23-2149631698.jpg?w=360&t=st=1683021685~exp=1683022285~hmac=369aceaa26bdd55ee7d3b432d510f117a1d2a69b75356a43b40401dc30d8411f",
+    "picture": "https://img.freepik.com/free-photo/female-chef-standing-with-crossed-arms-white-uniform-looking-happy_176474-13476.jpg?w=740&t=st=1684862192~exp=1684862792~hmac=e554366783de1d0b5bae543e2f8e46a8f7589326d3280d78db1e44877052ce7e",
     "years_of_experience": 25,
     "num_recipes": 150,
     "likes": 8000,
@@ -86,6 +89,7 @@
     "recipes": [
       {
         "name": "Roast Duck",
+        "img": "https://i.ibb.co/8mK00wD/Crispy-Whole-Roast-Duck-1.jpg",
         "ingredients": [
           "1 whole duck, cleaned and pat dry",
           "2 tbsp honey",
@@ -104,6 +108,7 @@
       },
       {
         "name": "Shrimp Dumplings",
+        "img": "https://i.ibb.co/89Cg3X3/har-gow-shrimp-dumplings-recipe-694503-Hero-01-db5847b769a64c0ebdf963c875e32297.webp",
         "ingredients": [
           "1 lb shrimp, peeled and deveined",
           "1/2 cup bamboo shoots, chopped",
@@ -123,6 +128,7 @@
       },
       {
         "name": "Steamed Fish",
+        "img": "https://i.ibb.co/7x3qCz9/Steamed-Fish-Small-1.jpg",
         "ingredients": [
           "1 whole fish, cleaned and scaled",
           "1 inch ginger, sliced",
@@ -153,6 +159,7 @@
     "recipes": [
       {
         "name": "Dan Dan Noodles",
+        "img": "https://images.pexels.com/photos/2664216/pexels-photo-2664216.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         "ingredients": [
           "1 lb. fresh Chinese wheat noodles",
           "4 oz. ground pork",
@@ -171,6 +178,7 @@
       },
       {
         "name": "Shrimp with Garlic Sauce",
+        "img": "https://images.pexels.com/photos/7538076/pexels-photo-7538076.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         "ingredients": [
           "1 lb. large shrimp, peeled and deveined",
           "1 tbsp. vegetable oil",
@@ -188,6 +196,7 @@
       },
       {
         "name": "Moo Shu Pork",
+        "img": "https://images.pexels.com/photos/361184/asparagus-steak-veal-steak-veal-361184.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         "ingredients": [
           "8 oz. boneless pork loin, thinly sliced",
           "1 cup sliced mushrooms",
@@ -216,6 +225,7 @@
     "recipes": [
       {
         "name": "Dumplings",
+        "img": "https://i.ibb.co/H4MnP1t/Vegetable-Dumplings-1-on-plate.jpg",
         "ingredients": [
           "1 lb ground pork",
           "1/2 head napa cabbage, finely chopped",
@@ -236,6 +246,8 @@
       },
       {
         "name": "Ma Po Tofu",
+        "img": "https://i.ibb.co/Vpt3JCV/mapo-tofu-1-feature-1170x1755-jpg.webp",
+
         "ingredients": [
           "1 block (14 oz) firm tofu",
           "1/2 lb ground pork",
@@ -257,6 +269,7 @@
       },
       {
         "name": "Steamed Fish with Ginger and Scallionsu",
+        "img": "https://i.ibb.co/f0JT1jq/84e5f55c-ed92-4ea4-877e-5072689aaaa4-2018-0301-sponsored-miele-steamed-fish-with-ginger-scallions-3x.webp",
         "ingredients": [
           "1 whole fish (about 2 lbs), cleaned and scaled",
           "2 inch piece of ginger, peeled and cut into thin strips",
@@ -285,6 +298,7 @@
     "recipes": [
       {
         "name": "Hunan-style Twice-Cooked Pork",
+        "img": "https://i.ibb.co/3yBznYK/Twice-Cooked-Pork-10-1400x1960.jpg",
         "ingredients": [
           "1 lb pork belly, sliced thinly",
           "1 tbsp Sichuan peppercorns",
@@ -305,6 +319,8 @@
       },
       {
         "name": "Sichuan-style Dan Dan Noodles",
+        "img": "https://images.pexels.com/photos/2347311/pexels-photo-2347311.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+
         "ingredients": [
           "8 oz dried wheat noodles",
           "1/2 lb ground pork",
@@ -324,6 +340,7 @@
       },
       {
         "name": "Kung Pao Chicken",
+        "img": "https://www.seriouseats.com/thmb/RS1QmUGQtBW4-hbm9H9Ga3azSAI=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__2014__07__2021-02-12-Take-Out-Kung-Pao-Chicken-MHOM-11-c46f6c06713c45c5a287ddbf08779d04.jpg",
         "ingredients": [
           "2 boneless, skinless chicken breasts, cut into small pieces",
           "1 tablespoon cornstarch",
@@ -355,6 +372,7 @@
     "recipes": [
       {
         "name": "Cantonese Roast Duck",
+        "img": "https://www.thespruceeats.com/thmb/tGcYsDqoanOgsWaBKilZiHRq5dA=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/cantonese-roast-duck-694866-hero-01-78e1e92c2e4948a4b98ba23c0701d274.jpg",
         "ingredients": [
           "1 whole duck",
           "1 tbsp honey",
@@ -374,6 +392,7 @@
       },
       {
         "name": "Ma Po Tofu",
+        "img": "https://www.seriouseats.com/thmb/dxTzZaUMRPMYq4WXx5sLdsZ842Y=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__2011__07__2021-02-12-Mapo-Tofu-MHOM-10-804db1211f1d47dbae505341d1e7b994.jpg",
         "ingredients": [
           "1 block (14 oz) firm tofu",
           "1/2 lb ground pork",
@@ -396,6 +415,7 @@
       },
       {
         "name": "Stir-Fried Bok Choy",
+        "img": "https://iheartumami.com/wp-content/uploads/2022/09/bok-choy-stir-fry-700x1050.jpg",
         "ingredients": [
           "1 pound bok choy, washed and trimmed",
           " 1 tablespoon vegetable oil",
